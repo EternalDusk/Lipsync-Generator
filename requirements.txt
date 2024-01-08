@@ -1,0 +1,4 @@
+pypar
+tempfile
+soundfile
+pathlib2
