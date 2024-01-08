@@ -3,6 +3,8 @@
 
 Automate the creation of lip synced characters easily utilizing only a transcript and an audio file.
 
+Created as an updated version of [the old version](github.com/EternalDusk/LipSyncVideoGenerator) meant to clean the code and dependencies required
+
 ### Dependencies
 * Required python libraries
     ```
